@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "krishna",
+    "password": "krishna",
+    "database": "booksdb",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}

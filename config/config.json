@@ -8,7 +8,6 @@
     "dialect": "postgres"
   },
   "production": {
-    "dialect": "postgres",
-    "connection": "postgres://bykeqwcgpgkdrb:8ac3133fea535aaf3b49e2fb71d2656be8e8bc3a648a94ebb4a771c27e8a10b4@ec2-52-87-135-240.compute-1.amazonaws.com:5432/d6gorhoag7ias"
+    "use_env_variable": "DATABASE_URL"
   }
 }
